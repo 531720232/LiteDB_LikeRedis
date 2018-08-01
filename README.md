@@ -5,3 +5,7 @@
 
 使用方法
 编译运行LiteDB.Shell
+
+tcp直连
+直接发送 "set|key|value","get|key"
+
